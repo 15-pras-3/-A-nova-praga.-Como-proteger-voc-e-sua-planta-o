@@ -1,4 +1,4 @@
-.menu{
+.menu{  /* menu onde tem como clicar */
     background-color: rgb(157, 226, 125);
     display: flex;
     flex: 1;
@@ -55,7 +55,7 @@ header{ display: flex;
 body {
     background-image: url('radiação.jpg');
 }
-.corpo {
+.corpo {  /*  */
     margin: 0 250px 0 250px;
     background-color: aliceblue;
 }
